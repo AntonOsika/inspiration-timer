@@ -1,0 +1,13 @@
+{
+  "name": "pomodoro-app",
+  "version": "1.0.0",
+  "description": "A simple pomodoro timer with inspirational quotes",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "axios": "^0.21.1"
+  }
+}
